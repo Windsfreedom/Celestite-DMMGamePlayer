@@ -7,6 +7,7 @@
 本项目下的所有代码均为NGA大佬S佬编写，本项目只搬运转载
 
 帖子地址：https://nga.178.com/read.php?tid=33485345&rand=53
+下载地址：https://www.aliyundrive.com/s/KE5o4v1MaHU
 
 # 这个启动器可以做什么？
 - 它可以在您不使用任何科学手段的情况下完成DMM Game Player的一些锁区功能，同时这些功能都是在本地实现的。
