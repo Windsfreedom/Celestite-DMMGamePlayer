@@ -6,8 +6,10 @@
 # 通知
 v1.9是本项目的最后一个版本
 
-# 代码暂不开源
-本项目下的所有代码均为NGA大佬S佬编写，本项目只搬运转载
+# ~~代码暂不开源~~S佬已开源
+~~本项目下的所有代码均为NGA大佬S佬编写，本项目只搬运转载~~
+
+地址为：https://github.com/Kengxxiao/CelestiteLauncher
 
 帖子地址：https://nga.178.com/read.php?tid=33485345&rand=53
 
